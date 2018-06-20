@@ -13,3 +13,8 @@
 ### version 6 : More bug fix.
 
 ### version 7 : Polished contact form.
+
+### version 8 : Polished website with:
+- Working contact page.
+- Subbmission message.
+- Database(answering & posting).
