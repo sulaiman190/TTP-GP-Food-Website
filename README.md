@@ -18,3 +18,6 @@
 - Working contact page.
 - Subbmission message.
 - Database(answering & posting).
+
+
+p.s. Some of the images and contants are collected from google for educational purpose. 
