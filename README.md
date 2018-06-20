@@ -10,4 +10,6 @@
 
 ### version 5 : EJS bug fix.
 
-### version 5 : More bug fix.
+### version 6 : More bug fix.
+
+### version 7 : Polished contact form.
