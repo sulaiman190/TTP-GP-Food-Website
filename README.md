@@ -14,13 +14,13 @@
 
 ### version 7 : Polished contact form.
 
-### version 8 : Polished website with:
+### version 8 : Polished website with: (Wroking vesion)
 - Working contact page.
 - Subbmission message.
 - Database(answering & posting).
 
 
-### version 9 : Connected to the remote database.
+### version 9 : Connected to the remote database.(Need to implement seqlize)
 
 #
 #
